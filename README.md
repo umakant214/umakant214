@@ -2,8 +2,8 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on job
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me www.linkedin.com/in/umakant-yadav-627132304
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
 <!---
