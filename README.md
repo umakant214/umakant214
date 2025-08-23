@@ -1,9 +1,8 @@
-- 👋 Hi, I’m Umakant Yadav
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React JS
-- 💞️ I’m looking to collaborate on job
+- 👋 Hello, I’m Umakant Yadav
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently  working  and Learning on Techpile Technology Pvt Ltd as a Full stack Developer
 - 📫 How to reach me www.linkedin.com/in/umakant-yadav-627132304
-- 📫 My Personal Portfolio  https://umakant214.github.io/-Personal-Portfolio-Website/
+- 📫 My Personal Portfolio https://portfolio-self-sigma-21.vercel.app/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
