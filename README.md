@@ -1,7 +1,7 @@
 - 👋 Hello, I’m Umakant Yadav
 - 👀 I’m interested in Software Development
 - 💻 Currently an apprentice at **Techpile Technology**  
-- 🚀 Learning Full Stack Development / [Your Tech Stack]  
+- 🚀 Learning Full Stack Development / [MERN STACK ]  
 - 📚 Working on real-world projects and improving my skills every day!
 - 📫 How to reach me www.linkedin.com/in/umakant-yadav-627132304
 - 📫 My Personal Portfolio https://portfolio-self-sigma-21.vercel.app/
